@@ -1,0 +1,482 @@
+2022-12-20 09:14:28,156:INFO:root: ========= RMP Scraper Bot Started =========
+2022-12-20 09:14:28,242:INFO:root:Thread-1 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:14:28,242:INFO:root:Thread-2 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:14:28,242:INFO:root:Thread-1 (scrape) Crawled Schools: 0 || Queued Schools:                 8869 || Professors found: 0
+2022-12-20 09:14:28,243:INFO:root:Thread-3 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:14:28,243:INFO:root:Thread-2 (scrape) Crawled Schools: 0 || Queued Schools:                 8869 || Professors found: 0
+2022-12-20 09:14:28,244:INFO:root:Thread-4 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:14:28,245:INFO:root:Thread-3 (scrape) Crawled Schools: 1 || Queued Schools:                 8869 || Professors found: 0
+2022-12-20 09:14:28,245:INFO:root:Thread-5 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:14:28,246:INFO:root:Thread-6 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:14:28,246:INFO:root:Thread-4 (scrape) Crawled Schools: 2 || Queued Schools:                 8869 || Professors found: 0
+2022-12-20 09:14:28,248:INFO:root:Thread-7 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:14:28,248:INFO:root:Thread-8 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:14:28,248:INFO:root:Thread-5 (scrape) Crawled Schools: 3 || Queued Schools:                 8869 || Professors found: 0
+2022-12-20 09:14:28,249:INFO:root:Thread-9 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:14:28,249:INFO:root:Thread-6 (scrape) Crawled Schools: 3 || Queued Schools:                 8869 || Professors found: 0
+2022-12-20 09:14:28,251:INFO:root:Thread-10 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:14:28,255:INFO:root:Thread-7 (scrape) Crawled Schools: 4 || Queued Schools:                 8869 || Professors found: 0
+2022-12-20 09:14:28,275:INFO:root:Thread-9 (scrape) Crawled Schools: 6 || Queued Schools:                 8869 || Professors found: 0
+2022-12-20 09:14:28,277:INFO:root:Thread-10 (scrape) Crawled Schools: 7 || Queued Schools:                 8869 || Professors found: 0
+2022-12-20 09:14:28,279:INFO:root:Thread-8 (scrape) Crawled Schools: 7 || Queued Schools:                 8869 || Professors found: 0
+2022-12-20 09:14:32,163:INFO:root:Thread-5 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:14:32,166:INFO:root:Thread-5 (scrape) Crawled Schools: 10 || Queued Schools:                 8868 || Professors found: 1
+2022-12-20 09:14:32,865:INFO:root:Thread-4 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:14:36,235:INFO:root:Thread-3 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 25
+2022-12-20 09:14:36,314:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 45
+2022-12-20 09:14:36,547:INFO:root:Thread-7 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 65
+2022-12-20 09:14:36,848:INFO:root:Thread-6 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 85
+2022-12-20 09:14:37,610:INFO:root:Thread-9 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 105
+2022-12-20 09:14:37,613:INFO:root:Thread-9 (scrape) Crawled Schools: 11 || Queued Schools:                 8867 || Professors found: 7
+2022-12-20 09:14:37,995:INFO:root:Thread-8 (scrape) Rejected Duplicates: 13 || Non-duplicated Data: 117
+2022-12-20 09:14:39,194:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 117
+2022-12-20 09:14:39,301:INFO:root:Thread-1 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 124
+2022-12-20 09:14:39,587:INFO:root:Thread-10 (scrape) Rejected Duplicates: 20 || Non-duplicated Data: 129
+2022-12-20 09:14:40,714:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 129
+2022-12-20 09:14:40,716:INFO:root:Thread-6 (scrape) Crawled Schools: 12 || Queued Schools:                 8866 || Professors found: 12
+2022-12-20 09:14:42,107:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 149
+2022-12-20 09:14:42,193:INFO:root:Thread-4 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 153
+2022-12-20 09:14:42,196:INFO:root:Thread-3 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 173
+2022-12-20 09:14:42,993:INFO:root:Thread-5 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 175
+2022-12-20 09:14:43,005:INFO:root:Thread-5 (scrape) Crawled Schools: 13 || Queued Schools:                 8865 || Professors found: 16
+2022-12-20 09:14:43,879:INFO:root:Thread-3 (scrape) Crawled Schools: 14 || Queued Schools:                 8864 || Professors found: 16
+2022-12-20 09:14:44,504:INFO:root:Thread-8 (scrape) Rejected Duplicates: 19 || Non-duplicated Data: 181
+2022-12-20 09:15:12,191:INFO:root: ========= RMP Scraper Bot Started =========
+2022-12-20 09:15:12,251:INFO:root:Thread-1 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:15:12,252:INFO:root:Thread-2 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:15:12,252:INFO:root:Thread-1 (scrape) Crawled Schools: 0 || Queued Schools:             8869 || Professors found: 0
+2022-12-20 09:15:12,252:INFO:root:Thread-3 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:15:12,253:INFO:root:Thread-2 (scrape) Crawled Schools: 0 || Queued Schools:             8869 || Professors found: 0
+2022-12-20 09:15:12,253:INFO:root:Thread-4 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:15:12,254:INFO:root:Thread-5 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:15:12,255:INFO:root:Thread-3 (scrape) Crawled Schools: 1 || Queued Schools:             8869 || Professors found: 0
+2022-12-20 09:15:12,255:INFO:root:Thread-6 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:15:12,256:INFO:root:Thread-4 (scrape) Crawled Schools: 2 || Queued Schools:             8869 || Professors found: 0
+2022-12-20 09:15:12,257:INFO:root:Thread-7 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:15:12,257:INFO:root:Thread-5 (scrape) Crawled Schools: 2 || Queued Schools:             8869 || Professors found: 0
+2022-12-20 09:15:12,257:INFO:root:Thread-8 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:15:12,258:INFO:root:Thread-9 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:15:12,259:INFO:root:Thread-6 (scrape) Crawled Schools: 3 || Queued Schools:             8869 || Professors found: 0
+2022-12-20 09:15:12,260:INFO:root:Thread-7 (scrape) Crawled Schools: 4 || Queued Schools:             8869 || Professors found: 0
+2022-12-20 09:15:12,261:INFO:root:Thread-10 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:15:12,271:INFO:root:Thread-8 (scrape) Crawled Schools: 5 || Queued Schools:             8869 || Professors found: 0
+2022-12-20 09:15:12,275:INFO:root:Thread-9 (scrape) Crawled Schools: 5 || Queued Schools:             8869 || Professors found: 0
+2022-12-20 09:15:12,283:INFO:root:Thread-10 (scrape) Crawled Schools: 7 || Queued Schools:             8869 || Professors found: 0
+2022-12-20 09:15:15,190:INFO:root:Thread-1 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:15:15,192:INFO:root:Thread-1 (scrape) Crawled Schools: 10 || Queued Schools:             8868 || Professors found: 1
+2022-12-20 09:15:15,372:INFO:root:Thread-5 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:15:15,373:INFO:root:Thread-5 (scrape) Crawled Schools: 11 || Queued Schools:             8867 || Professors found: 2
+2022-12-20 09:15:15,429:INFO:root:Thread-7 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:15:15,430:INFO:root:Thread-7 (scrape) Crawled Schools: 12 || Queued Schools:             8866 || Professors found: 3
+2022-12-20 09:15:19,261:INFO:root:Thread-10 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 25
+2022-12-20 09:15:20,039:INFO:root:Thread-4 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 45
+2022-12-20 09:15:21,762:INFO:root:Thread-8 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 65
+2022-12-20 09:19:36,291:INFO:root: ========= RMP Scraper Bot Started =========
+2022-12-20 09:19:36,347:INFO:root:Thread-1 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:19:36,348:INFO:root:Thread-2 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:19:36,348:INFO:root:Thread-1 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:19:36,349:INFO:root:Thread-3 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:19:36,349:INFO:root:Thread-2 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:19:36,349:INFO:root:Thread-4 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:19:36,350:INFO:root:Thread-5 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:19:36,350:INFO:root:Thread-3 (scrape) Crawled Schools: 1 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:19:36,351:INFO:root:Thread-6 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:19:36,352:INFO:root:Thread-4 (scrape) Crawled Schools: 2 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:19:36,352:INFO:root:Thread-7 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:19:36,353:INFO:root:Thread-5 (scrape) Crawled Schools: 2 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:19:36,353:INFO:root:Thread-8 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:19:36,354:INFO:root:Thread-9 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:19:36,355:INFO:root:Thread-6 (scrape) Crawled Schools: 3 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:19:36,355:INFO:root:Thread-10 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:19:36,357:INFO:root:Thread-7 (scrape) Crawled Schools: 4 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:19:36,363:INFO:root:Thread-8 (scrape) Crawled Schools: 5 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:19:36,367:INFO:root:Thread-9 (scrape) Crawled Schools: 5 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:19:36,377:INFO:root:Thread-10 (scrape) Crawled Schools: 6 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:19:39,428:INFO:root:Thread-1 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:19:39,553:INFO:root:Thread-5 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:19:41,079:INFO:root:Thread-5 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:19:42,850:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 25
+2022-12-20 09:19:44,056:INFO:root:Thread-3 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 45
+2022-12-20 09:19:44,764:INFO:root:Thread-10 (scrape) Rejected Duplicates: 20 || Non-duplicated Data: 50
+2022-12-20 09:19:45,145:INFO:root:Thread-9 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 54
+2022-12-20 09:19:45,197:INFO:root:Thread-5 (scrape) Rejected Duplicates: 9 || Non-duplicated Data: 70
+2022-12-20 09:19:46,195:INFO:root:Thread-1 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 73
+2022-12-20 09:19:46,629:INFO:root:Thread-9 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 73
+2022-12-20 09:19:46,941:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 93
+2022-12-20 09:19:48,160:INFO:root:Thread-9 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 93
+2022-12-20 09:19:48,942:INFO:root:Thread-1 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 93
+2022-12-20 09:19:48,944:INFO:root:Thread-1 (scrape) Crawled Schools: 10 || Queued Schools: 8868 || Professors found: 13
+2022-12-20 09:19:49,589:INFO:root:Thread-9 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 93
+2022-12-20 09:19:49,596:INFO:root:Thread-3 (scrape) Rejected Duplicates: 17 || Non-duplicated Data: 101
+2022-12-20 09:19:51,169:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 121
+2022-12-20 09:19:51,627:INFO:root:Thread-10 (scrape) Rejected Duplicates: 19 || Non-duplicated Data: 127
+2022-12-20 09:19:52,045:INFO:root:Thread-5 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 128
+2022-12-20 09:19:52,283:INFO:root:Thread-9 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 128
+2022-12-20 09:19:52,284:INFO:root:Thread-9 (scrape) Crawled Schools: 11 || Queued Schools: 8867 || Professors found: 19
+2022-12-20 09:19:52,981:INFO:root:Thread-10 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 128
+2022-12-20 09:19:55,126:INFO:root:Thread-3 (scrape) Rejected Duplicates: 17 || Non-duplicated Data: 136
+2022-12-20 09:19:55,236:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 156
+2022-12-20 09:19:55,391:INFO:root:Thread-8 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 176
+2022-12-20 09:19:55,729:INFO:root:Thread-1 (scrape) Rejected Duplicates: 12 || Non-duplicated Data: 189
+2022-12-20 09:19:58,651:INFO:root:Thread-5 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 190
+2022-12-20 09:19:58,672:INFO:root:Thread-10 (scrape) Rejected Duplicates: 15 || Non-duplicated Data: 192
+2022-12-20 09:19:59,556:INFO:root:Thread-8 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 212
+2022-12-20 09:19:59,914:INFO:root:Thread-9 (scrape) Crawled Schools: 12 || Queued Schools: 8866 || Professors found: 27
+2022-12-20 09:20:00,919:INFO:root:Thread-2 (scrape) Crawled Schools: 13 || Queued Schools: 8865 || Professors found: 27
+2022-12-20 09:20:01,187:INFO:root:Thread-1 (scrape) Rejected Duplicates: 17 || Non-duplicated Data: 220
+2022-12-20 09:20:01,505:INFO:root:Thread-3 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 224
+2022-12-20 09:20:03,492:INFO:root:Thread-3 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 224
+2022-12-20 09:20:04,260:INFO:root:Thread-7 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 244
+2022-12-20 09:20:06,291:INFO:root:Thread-5 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 246
+2022-12-20 09:20:06,588:INFO:root:Thread-10 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 247
+2022-12-20 09:20:06,957:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 267
+2022-12-20 09:20:07,520:INFO:root:Thread-1 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 274
+2022-12-20 09:20:08,212:INFO:root:Thread-9 (scrape) Rejected Duplicates: 17 || Non-duplicated Data: 282
+2022-12-20 09:20:10,196:INFO:root:Thread-7 (scrape) Rejected Duplicates: 15 || Non-duplicated Data: 292
+2022-12-20 09:20:11,441:INFO:root:Thread-7 (scrape) Crawled Schools: 14 || Queued Schools: 8864 || Professors found: 37
+2022-12-20 09:20:11,689:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 312
+2022-12-20 09:20:11,747:INFO:root:Thread-8 (scrape) Crawled Schools: 15 || Queued Schools: 8863 || Professors found: 38
+2022-12-20 09:20:12,046:INFO:root:Thread-6 (scrape) Crawled Schools: 16 || Queued Schools: 8862 || Professors found: 38
+2022-12-20 09:20:12,250:INFO:root:Thread-3 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 314
+2022-12-20 09:20:12,356:INFO:root:Thread-4 (scrape) Crawled Schools: 17 || Queued Schools: 8861 || Professors found: 39
+2022-12-20 09:20:13,275:INFO:root:Thread-1 (scrape) Rejected Duplicates: 12 || Non-duplicated Data: 327
+2022-12-20 09:20:13,701:INFO:root:Thread-5 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 328
+2022-12-20 09:20:13,917:INFO:root:Thread-9 (scrape) Rejected Duplicates: 16 || Non-duplicated Data: 337
+2022-12-20 09:20:14,643:INFO:root:Thread-8 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 337
+2022-12-20 09:20:14,771:INFO:root:Thread-10 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 339
+2022-12-20 09:20:16,793:INFO:root:Thread-5 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 339
+2022-12-20 09:20:16,989:INFO:root:Thread-2 (scrape) Rejected Duplicates: 11 || Non-duplicated Data: 353
+2022-12-20 09:20:17,769:INFO:root:Thread-9 (scrape) Rejected Duplicates: 7 || Non-duplicated Data: 371
+2022-12-20 09:20:18,827:INFO:root:Thread-1 (scrape) Rejected Duplicates: 19 || Non-duplicated Data: 377
+2022-12-20 09:20:18,843:INFO:root:Thread-3 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 380
+2022-12-20 09:20:19,511:INFO:root:Thread-7 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 382
+2022-12-20 09:20:19,514:INFO:root:Thread-7 (scrape) Crawled Schools: 18 || Queued Schools: 8860 || Professors found: 50
+2022-12-20 09:20:20,066:INFO:root:Thread-1 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 382
+2022-12-20 09:20:20,069:INFO:root:Thread-4 (scrape) Rejected Duplicates: 14 || Non-duplicated Data: 393
+2022-12-20 09:20:20,096:INFO:root:Thread-6 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 397
+2022-12-20 09:20:21,003:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 417
+2022-12-20 09:20:21,058:INFO:root:Thread-8 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 421
+2022-12-20 09:20:21,484:INFO:root:Thread-10 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 424
+2022-12-20 09:20:21,529:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 424
+2022-12-20 09:20:22,510:INFO:root:Thread-3 (scrape) Rejected Duplicates: 8 || Non-duplicated Data: 441
+2022-12-20 09:20:23,122:INFO:root:Thread-9 (scrape) Rejected Duplicates: 7 || Non-duplicated Data: 459
+2022-12-20 09:20:23,469:INFO:root:Thread-5 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 460
+2022-12-20 09:20:24,840:INFO:root:Thread-5 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 460
+2022-12-20 09:20:24,923:INFO:root:Thread-7 (scrape) Rejected Duplicates: 10 || Non-duplicated Data: 475
+2022-12-20 09:20:25,329:INFO:root:Thread-1 (scrape) Rejected Duplicates: 20 || Non-duplicated Data: 480
+2022-12-20 09:20:25,675:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 500
+2022-12-20 09:20:26,643:INFO:root:Thread-8 (scrape) Rejected Duplicates: 16 || Non-duplicated Data: 509
+2022-12-20 09:20:26,718:INFO:root:Thread-4 (scrape) Rejected Duplicates: 15 || Non-duplicated Data: 519
+2022-12-20 09:20:26,777:INFO:root:Thread-6 (scrape) Rejected Duplicates: 20 || Non-duplicated Data: 524
+2022-12-20 09:20:26,838:INFO:root:Thread-10 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 531
+2022-12-20 09:20:27,395:INFO:root:Thread-9 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 551
+2022-12-20 09:20:29,091:INFO:root:Thread-3 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 552
+2022-12-20 09:20:29,662:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 572
+2022-12-20 09:20:30,529:INFO:root:Thread-4 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 592
+2022-12-20 09:20:30,600:INFO:root:Thread-1 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 599
+2022-12-20 09:20:31,419:INFO:root:Thread-7 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 603
+2022-12-20 09:20:31,575:INFO:root:Thread-5 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 604
+2022-12-20 09:20:31,751:INFO:root:Thread-4 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 604
+2022-12-20 09:20:32,740:INFO:root:Thread-8 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 605
+2022-12-20 09:20:33,456:INFO:root:Thread-6 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 607
+2022-12-20 09:20:33,572:INFO:root:Thread-10 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 608
+2022-12-20 09:20:34,209:INFO:root:Thread-9 (scrape) Rejected Duplicates: 16 || Non-duplicated Data: 617
+2022-12-20 09:20:35,304:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 637
+2022-12-20 09:20:35,560:INFO:root:Thread-4 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 657
+2022-12-20 09:20:36,249:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 657
+2022-12-20 09:20:36,430:INFO:root:Thread-7 (scrape) Rejected Duplicates: 19 || Non-duplicated Data: 663
+2022-12-20 09:20:36,495:INFO:root:Thread-3 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 667
+2022-12-20 09:20:36,963:INFO:root:Thread-1 (scrape) Rejected Duplicates: 12 || Non-duplicated Data: 680
+2022-12-20 09:20:37,519:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 680
+2022-12-20 09:20:38,353:INFO:root:Thread-5 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 681
+2022-12-20 09:20:39,517:INFO:root:Thread-8 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 684
+2022-12-20 09:20:39,729:INFO:root:Thread-9 (scrape) Rejected Duplicates: 15 || Non-duplicated Data: 694
+2022-12-20 09:20:40,178:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 694
+2022-12-20 09:20:40,714:INFO:root:Thread-8 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 694
+2022-12-20 09:20:40,991:INFO:root:Thread-2 (scrape) Rejected Duplicates: 16 || Non-duplicated Data: 703
+2022-12-20 09:20:41,237:INFO:root:Thread-10 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 705
+2022-12-20 09:20:41,361:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 705
+2022-12-20 09:20:41,363:INFO:root:Thread-7 (scrape) Rejected Duplicates: 17 || Non-duplicated Data: 713
+2022-12-20 09:20:41,928:INFO:root:Thread-4 (scrape) Rejected Duplicates: 10 || Non-duplicated Data: 728
+2022-12-20 09:20:43,003:INFO:root:Thread-5 (scrape) Rejected Duplicates: 19 || Non-duplicated Data: 734
+2022-12-20 09:20:43,136:INFO:root:Thread-1 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 737
+2022-12-20 09:20:43,321:INFO:root:Thread-3 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 740
+2022-12-20 09:20:43,631:INFO:root:Thread-9 (scrape) Rejected Duplicates: 7 || Non-duplicated Data: 758
+2022-12-20 09:20:43,869:INFO:root:Thread-10 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 758
+2022-12-20 09:20:46,134:INFO:root:Thread-2 (scrape) Rejected Duplicates: 16 || Non-duplicated Data: 767
+2022-12-20 09:20:46,529:INFO:root:Thread-6 (scrape) Rejected Duplicates: 11 || Non-duplicated Data: 781
+2022-12-20 09:20:47,524:INFO:root:Thread-9 (scrape) Rejected Duplicates: 10 || Non-duplicated Data: 796
+2022-12-20 09:20:47,671:INFO:root:Thread-7 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 797
+2022-12-20 09:20:48,088:INFO:root:Thread-4 (scrape) Rejected Duplicates: 11 || Non-duplicated Data: 811
+2022-12-20 09:20:48,111:INFO:root:Thread-3 (scrape) Rejected Duplicates: 20 || Non-duplicated Data: 816
+2022-12-20 09:20:48,237:INFO:root:Thread-8 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 820
+2022-12-20 09:20:49,667:INFO:root:Thread-5 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 821
+2022-12-20 09:20:49,847:INFO:root:Thread-1 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 822
+2022-12-20 09:20:50,383:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 842
+2022-12-20 09:20:50,528:INFO:root:Thread-10 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 845
+2022-12-20 09:20:51,295:INFO:root:Thread-9 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 865
+2022-12-20 09:20:52,846:INFO:root:Thread-7 (scrape) Rejected Duplicates: 17 || Non-duplicated Data: 873
+2022-12-20 09:20:53,861:INFO:root:Thread-5 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 893
+2022-12-20 09:20:53,867:INFO:root:Thread-5 (scrape) Crawled Schools: 19 || Queued Schools: 8859 || Professors found: 116
+2022-12-20 09:20:54,103:INFO:root:Thread-6 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 895
+2022-12-20 09:20:54,313:INFO:root:Thread-3 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 896
+2022-12-20 09:20:54,999:INFO:root:Thread-8 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 897
+2022-12-20 09:20:55,497:INFO:root:Thread-2 (scrape) Rejected Duplicates: 11 || Non-duplicated Data: 911
+2022-12-20 09:20:56,152:INFO:root:Thread-1 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 913
+2022-12-20 09:20:56,280:INFO:root:Thread-9 (scrape) Rejected Duplicates: 16 || Non-duplicated Data: 922
+2022-12-20 09:20:56,282:INFO:root:Thread-8 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 922
+2022-12-20 09:20:56,553:INFO:root:Thread-10 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 923
+2022-12-20 09:20:59,325:INFO:root:Thread-7 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 926
+2022-12-20 09:20:59,623:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 946
+2022-12-20 09:20:59,950:INFO:root:Thread-4 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 953
+2022-12-20 09:21:00,622:INFO:root:Thread-3 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 956
+2022-12-20 09:21:00,740:INFO:root:Thread-6 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 957
+2022-12-20 09:21:01,463:INFO:root:Thread-4 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 957
+2022-12-20 09:21:01,747:INFO:root:Thread-9 (scrape) Rejected Duplicates: 9 || Non-duplicated Data: 973
+2022-12-20 09:21:02,947:INFO:root:Thread-5 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 976
+2022-12-20 09:21:03,986:INFO:root:Thread-8 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 977
+2022-12-20 09:21:04,154:INFO:root:Thread-2 (scrape) Rejected Duplicates: 8 || Non-duplicated Data: 994
+2022-12-20 09:21:04,891:INFO:root:Thread-10 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 995
+2022-12-20 09:21:05,411:INFO:root:Thread-7 (scrape) Rejected Duplicates: 17 || Non-duplicated Data: 1003
+2022-12-20 09:21:05,647:INFO:root:Thread-8 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1003
+2022-12-20 09:21:09,299:INFO:root:Thread-1 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 1006
+2022-12-20 09:21:09,752:INFO:root:Thread-4 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 1013
+2022-12-20 09:21:09,762:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 1033
+2022-12-20 09:21:11,115:INFO:root:Thread-6 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 1036
+2022-12-20 09:21:11,624:INFO:root:Thread-3 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 1040
+2022-12-20 09:23:01,038:INFO:root: ========= RMP Scraper Bot Started =========
+2022-12-20 09:23:01,098:INFO:root:Thread-1 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:23:01,098:INFO:root:Thread-2 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:23:01,099:INFO:root:Thread-1 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:23:01,099:INFO:root:Thread-3 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:23:01,099:INFO:root:Thread-2 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:23:01,099:INFO:root:Thread-4 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:23:01,100:INFO:root:Thread-5 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:23:01,101:INFO:root:Thread-6 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:23:01,101:INFO:root:Thread-7 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:23:01,101:INFO:root:Thread-3 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:23:01,102:INFO:root:Thread-8 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:23:01,103:INFO:root:Thread-9 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:23:01,103:INFO:root:Thread-4 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:23:01,104:INFO:root:Thread-10 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:23:01,104:INFO:root:Thread-5 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:23:01,105:INFO:root:Thread-6 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:23:01,105:INFO:root:Thread-7 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:23:01,108:INFO:root:Thread-8 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:23:01,111:INFO:root:Thread-9 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:23:01,116:INFO:root:Thread-10 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:23:04,899:INFO:root:Thread-9 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:23:05,129:INFO:root:Thread-2 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:23:06,850:INFO:root:Thread-2 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:23:08,488:INFO:root:Thread-8 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 25
+2022-12-20 09:23:09,437:INFO:root:Thread-5 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 45
+2022-12-20 09:23:09,466:INFO:root:Thread-3 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 65
+2022-12-20 09:23:09,499:INFO:root:Thread-6 (scrape) Rejected Duplicates: 16 || Non-duplicated Data: 74
+2022-12-20 09:23:09,833:INFO:root:Thread-10 (scrape) Rejected Duplicates: 13 || Non-duplicated Data: 86
+2022-12-20 09:23:09,953:INFO:root:Thread-1 (scrape) Rejected Duplicates: 14 || Non-duplicated Data: 97
+2022-12-20 09:23:11,498:INFO:root:Thread-7 (scrape) Rejected Duplicates: 19 || Non-duplicated Data: 103
+2022-12-20 09:23:11,625:INFO:root:Thread-4 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 107
+2022-12-20 09:23:12,313:INFO:root:Thread-9 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 110
+2022-12-20 09:23:12,689:INFO:root:Thread-8 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 130
+2022-12-20 09:23:12,898:INFO:root:Thread-4 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 130
+2022-12-20 09:23:13,696:INFO:root:Thread-5 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 150
+2022-12-20 09:23:13,767:INFO:root:Thread-3 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 170
+2022-12-20 09:23:14,940:INFO:root:Thread-2 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 173
+2022-12-20 09:23:14,952:INFO:root:Thread-2 (scrape) Crawled Schools: 1 || Queued Schools: 8868 || Professors found: 17
+2022-12-20 09:23:15,270:INFO:root:Thread-10 (scrape) Rejected Duplicates: 14 || Non-duplicated Data: 184
+2022-12-20 09:23:15,791:INFO:root:Thread-1 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 191
+2022-12-20 09:23:16,493:INFO:root:Thread-6 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 193
+2022-12-20 09:23:17,672:INFO:root:Thread-5 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 213
+2022-12-20 09:23:18,114:INFO:root:Thread-3 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 233
+2022-12-20 09:23:18,257:INFO:root:Thread-8 (scrape) Rejected Duplicates: 13 || Non-duplicated Data: 245
+2022-12-20 09:23:18,379:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 245
+2022-12-20 09:23:19,137:INFO:root:Thread-9 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 248
+2022-12-20 09:23:19,232:INFO:root:Thread-4 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 252
+2022-12-20 09:23:20,993:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 272
+2022-12-20 09:23:21,153:INFO:root:Thread-10 (scrape) Rejected Duplicates: 11 || Non-duplicated Data: 286
+2022-12-20 09:23:21,161:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 286
+2022-12-20 09:23:21,922:INFO:root:Thread-5 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 306
+2022-12-20 09:23:22,048:INFO:root:Thread-1 (scrape) Rejected Duplicates: 12 || Non-duplicated Data: 319
+2022-12-20 09:23:22,237:INFO:root:Thread-2 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 319
+2022-12-20 09:23:22,523:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 319
+2022-12-20 09:23:22,524:INFO:root:Thread-6 (scrape) Crawled Schools: 1 || Queued Schools: 8867 || Professors found: 33
+2022-12-20 09:23:23,427:INFO:root:Thread-3 (scrape) Rejected Duplicates: 11 || Non-duplicated Data: 333
+2022-12-20 09:23:24,951:INFO:root:Thread-8 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 337
+2022-12-20 09:23:25,160:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 337
+2022-12-20 09:23:25,235:INFO:root:Thread-10 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 357
+2022-12-20 09:23:25,805:INFO:root:Thread-4 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 359
+2022-12-20 09:23:25,954:INFO:root:Thread-5 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 379
+2022-12-20 09:23:26,604:INFO:root:Thread-7 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 381
+2022-12-20 09:23:26,769:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 381
+2022-12-20 09:23:27,595:INFO:root:Thread-9 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 383
+2022-12-20 09:23:27,691:INFO:root:Thread-1 (scrape) Rejected Duplicates: 15 || Non-duplicated Data: 393
+2022-12-20 09:23:28,482:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 413
+2022-12-20 09:23:28,531:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 413
+2022-12-20 09:23:29,311:INFO:root:Thread-3 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 433
+2022-12-20 09:23:30,091:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 433
+2022-12-20 09:23:30,403:INFO:root:Thread-10 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 453
+2022-12-20 09:23:30,707:INFO:root:Thread-1 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 453
+2022-12-20 09:23:31,445:INFO:root:Thread-8 (scrape) Rejected Duplicates: 15 || Non-duplicated Data: 463
+2022-12-20 09:23:32,290:INFO:root:Thread-5 (scrape) Rejected Duplicates: 15 || Non-duplicated Data: 473
+2022-12-20 09:23:33,060:INFO:root:Thread-7 (scrape) Rejected Duplicates: 14 || Non-duplicated Data: 484
+2022-12-20 09:23:33,106:INFO:root:Thread-2 (scrape) Rejected Duplicates: 10 || Non-duplicated Data: 499
+2022-12-20 09:23:33,441:INFO:root:Thread-4 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 501
+2022-12-20 09:23:35,738:INFO:root:Thread-8 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 521
+2022-12-20 09:23:35,981:INFO:root:Thread-9 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 522
+2022-12-20 09:23:36,003:INFO:root:Thread-3 (scrape) Rejected Duplicates: 13 || Non-duplicated Data: 534
+2022-12-20 09:23:36,689:INFO:root:Thread-10 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 554
+2022-12-20 09:23:37,181:INFO:root:Thread-6 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 555
+2022-12-20 09:23:37,208:INFO:root:Thread-5 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 575
+2022-12-20 09:23:37,555:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 595
+2022-12-20 09:23:38,717:INFO:root:Thread-5 (scrape) Crawled Schools: 1 || Queued Schools: 8866 || Professors found: 61
+2022-12-20 09:23:39,035:INFO:root:Thread-1 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 596
+2022-12-20 09:23:39,911:INFO:root:Thread-7 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 599
+2022-12-20 09:23:40,379:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 599
+2022-12-20 09:23:41,039:INFO:root:Thread-4 (scrape) Rejected Duplicates: 20 || Non-duplicated Data: 604
+2022-12-20 09:23:41,041:INFO:root:Thread-4 (scrape) Crawled Schools: 1 || Queued Schools: 8865 || Professors found: 65
+2022-12-20 09:23:41,209:INFO:root:Thread-8 (scrape) Rejected Duplicates: 19 || Non-duplicated Data: 610
+2022-12-20 09:23:41,806:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 610
+2022-12-20 09:23:42,368:INFO:root:Thread-3 (scrape) Rejected Duplicates: 12 || Non-duplicated Data: 623
+2022-12-20 09:23:43,055:INFO:root:Thread-10 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 643
+2022-12-20 09:23:43,338:INFO:root:Thread-9 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 644
+2022-12-20 09:23:43,570:INFO:root:Thread-2 (scrape) Rejected Duplicates: 9 || Non-duplicated Data: 660
+2022-12-20 09:23:44,057:INFO:root:Thread-4 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 660
+2022-12-20 09:23:45,754:INFO:root:Thread-7 (scrape) Rejected Duplicates: 16 || Non-duplicated Data: 669
+2022-12-20 09:23:45,887:INFO:root:Thread-4 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 669
+2022-12-20 09:23:45,888:INFO:root:Thread-4 (scrape) Crawled Schools: 2 || Queued Schools: 8864 || Professors found: 74
+2022-12-20 09:23:46,582:INFO:root:Thread-1 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 671
+2022-12-20 09:23:47,339:INFO:root:Thread-3 (scrape) Rejected Duplicates: 9 || Non-duplicated Data: 687
+2022-12-20 09:23:47,959:INFO:root:Thread-10 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 707
+2022-12-20 09:23:48,008:INFO:root:Thread-1 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 707
+2022-12-20 09:23:49,173:INFO:root:Thread-8 (scrape) Rejected Duplicates: 20 || Non-duplicated Data: 712
+2022-12-20 09:23:49,669:INFO:root:Thread-6 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 714
+2022-12-20 09:23:49,688:INFO:root:Thread-5 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 715
+2022-12-20 09:23:49,818:INFO:root:Thread-2 (scrape) Rejected Duplicates: 14 || Non-duplicated Data: 726
+2022-12-20 09:23:50,746:INFO:root:Thread-8 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 726
+2022-12-20 09:23:50,791:INFO:root:Thread-9 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 727
+2022-12-20 09:23:52,258:INFO:root:Thread-4 (scrape) Rejected Duplicates: 10 || Non-duplicated Data: 742
+2022-12-20 09:23:52,460:INFO:root:Thread-10 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 762
+2022-12-20 09:23:52,506:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 762
+2022-12-20 09:23:53,273:INFO:root:Thread-7 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 765
+2022-12-20 09:23:54,247:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 765
+2022-12-20 09:23:54,834:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 785
+2022-12-20 09:23:55,292:INFO:root:Thread-3 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 792
+2022-12-20 09:23:55,419:INFO:root:Thread-1 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 793
+2022-12-20 09:23:55,424:INFO:root:Thread-1 (scrape) Crawled Schools: 1 || Queued Schools: 8863 || Professors found: 92
+2022-12-20 09:23:56,895:INFO:root:Thread-8 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 800
+2022-12-20 09:23:57,165:INFO:root:Thread-4 (scrape) Rejected Duplicates: 10 || Non-duplicated Data: 815
+2022-12-20 09:23:57,416:INFO:root:Thread-5 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 816
+2022-12-20 09:23:57,779:INFO:root:Thread-10 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 836
+2022-12-20 09:23:58,968:INFO:root:Thread-9 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 840
+2022-12-20 09:23:59,141:INFO:root:Thread-5 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 840
+2022-12-20 09:24:00,287:INFO:root:Thread-7 (scrape) Rejected Duplicates: 15 || Non-duplicated Data: 850
+2022-12-20 09:24:02,031:INFO:root:Thread-4 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 870
+2022-12-20 09:24:02,265:INFO:root:Thread-3 (scrape) Rejected Duplicates: 7 || Non-duplicated Data: 888
+2022-12-20 09:24:02,358:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 908
+2022-12-20 09:24:03,312:INFO:root:Thread-8 (scrape) Rejected Duplicates: 14 || Non-duplicated Data: 919
+2022-12-20 09:24:04,149:INFO:root:Thread-6 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 920
+2022-12-20 09:24:04,810:INFO:root:Thread-1 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 922
+2022-12-20 09:24:04,814:INFO:root:Thread-1 (scrape) Crawled Schools: 2 || Queued Schools: 8862 || Professors found: 105
+2022-12-20 09:24:04,913:INFO:root:Thread-10 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 942
+2022-12-20 09:24:06,015:INFO:root:Thread-7 (scrape) Rejected Duplicates: 19 || Non-duplicated Data: 948
+2022-12-20 09:24:06,414:INFO:root:Thread-5 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 952
+2022-12-20 09:24:06,462:INFO:root:Thread-9 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 955
+2022-12-20 09:24:06,774:INFO:root:Thread-3 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 975
+2022-12-20 09:24:06,860:INFO:root:Thread-2 (scrape) Rejected Duplicates: 9 || Non-duplicated Data: 991
+2022-12-20 09:24:07,786:INFO:root:Thread-4 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 998
+2022-12-20 09:24:07,916:INFO:root:Thread-5 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 998
+2022-12-20 09:24:07,918:INFO:root:Thread-5 (scrape) Crawled Schools: 2 || Queued Schools: 8861 || Professors found: 113
+2022-12-20 09:24:08,887:INFO:root:Thread-10 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 1018
+2022-12-20 09:24:09,338:INFO:root:Thread-9 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1018
+2022-12-20 09:24:09,340:INFO:root:Thread-8 (scrape) Rejected Duplicates: 17 || Non-duplicated Data: 1026
+2022-12-20 09:24:10,967:INFO:root:Thread-9 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1026
+2022-12-20 09:24:10,970:INFO:root:Thread-9 (scrape) Crawled Schools: 1 || Queued Schools: 8860 || Professors found: 117
+2022-12-20 09:24:11,688:INFO:root:Thread-6 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 1027
+2022-12-20 09:24:11,861:INFO:root:Thread-4 (scrape) Rejected Duplicates: 8 || Non-duplicated Data: 1044
+2022-12-20 09:24:12,800:INFO:root:Thread-3 (scrape) Rejected Duplicates: 11 || Non-duplicated Data: 1058
+2022-12-20 09:24:13,534:INFO:root:Thread-1 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 1059
+2022-12-20 09:24:14,379:INFO:root:Thread-5 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 1079
+2022-12-20 09:24:14,808:INFO:root:Thread-7 (scrape) Rejected Duplicates: 22 || Non-duplicated Data: 1082
+2022-12-20 09:24:15,247:INFO:root:Thread-8 (scrape) Rejected Duplicates: 20 || Non-duplicated Data: 1087
+2022-12-20 09:24:15,881:INFO:root:Thread-10 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 1107
+2022-12-20 09:24:15,944:INFO:root:Thread-2 (scrape) Rejected Duplicates: 20 || Non-duplicated Data: 1112
+2022-12-20 09:24:16,368:INFO:root:Thread-7 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1112
+2022-12-20 09:24:18,319:INFO:root:Thread-8 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1112
+2022-12-20 09:24:19,655:INFO:root:Thread-4 (scrape) Rejected Duplicates: 14 || Non-duplicated Data: 1123
+2022-12-20 09:24:19,734:INFO:root:Thread-7 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1123
+2022-12-20 09:24:20,073:INFO:root:Thread-6 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 1124
+2022-12-20 09:24:20,327:INFO:root:Thread-3 (scrape) Rejected Duplicates: 17 || Non-duplicated Data: 1132
+2022-12-20 09:24:20,369:INFO:root:Thread-9 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 1133
+2022-12-20 09:24:20,372:INFO:root:Thread-9 (scrape) Crawled Schools: 2 || Queued Schools: 8859 || Professors found: 133
+2022-12-20 09:24:20,582:INFO:root:Thread-10 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 1153
+2022-12-20 09:24:21,335:INFO:root:Thread-7 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1153
+2022-12-20 09:24:22,477:INFO:root:Thread-5 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 1154
+2022-12-20 09:24:23,279:INFO:root:Thread-1 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 1155
+2022-12-20 09:24:23,545:INFO:root:Thread-8 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 1175
+2022-12-20 09:24:23,863:INFO:root:Thread-2 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 1176
+2022-12-20 09:24:23,965:INFO:root:Thread-5 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1176
+2022-12-20 09:24:25,019:INFO:root:Thread-1 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1176
+2022-12-20 09:24:25,523:INFO:root:Thread-5 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1176
+2022-12-20 09:24:25,542:INFO:root:Thread-4 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 1183
+2022-12-20 09:24:26,264:INFO:root:Thread-7 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1183
+2022-12-20 09:24:26,395:INFO:root:Thread-3 (scrape) Rejected Duplicates: 19 || Non-duplicated Data: 1189
+2022-12-20 09:24:26,632:INFO:root:Thread-10 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 1196
+2022-12-20 09:24:26,840:INFO:root:Thread-9 (scrape) Rejected Duplicates: 10 || Non-duplicated Data: 1211
+2022-12-20 09:24:27,777:INFO:root:Thread-6 (scrape) Rejected Duplicates: 21 || Non-duplicated Data: 1215
+2022-12-20 09:24:30,089:INFO:root:Thread-2 (scrape) Rejected Duplicates: 13 || Non-duplicated Data: 1227
+2022-12-20 09:24:30,729:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1227
+2022-12-20 09:24:30,886:INFO:root:Thread-3 (scrape) Rejected Duplicates: 7 || Non-duplicated Data: 1245
+2022-12-20 09:24:31,334:INFO:root:Thread-10 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 1265
+2022-12-20 09:24:31,734:INFO:root:Thread-4 (scrape) Rejected Duplicates: 19 || Non-duplicated Data: 1271
+2022-12-20 09:24:31,804:INFO:root:Thread-5 (scrape) Rejected Duplicates: 15 || Non-duplicated Data: 1281
+2022-12-20 09:24:32,161:INFO:root:Thread-6 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 1281
+2022-12-20 09:24:32,697:INFO:root:Thread-8 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 1283
+2022-12-20 09:24:32,855:INFO:root:Thread-9 (scrape) Rejected Duplicates: 12 || Non-duplicated Data: 1296
+2022-12-20 09:26:01,768:INFO:root: ========= RMP Scraper Bot Started =========
+2022-12-20 09:26:01,822:INFO:root:Thread-1 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:26:01,823:INFO:root:Thread-1 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:26:01,823:INFO:root:Thread-2 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:26:01,824:INFO:root:Thread-3 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:26:01,824:INFO:root:Thread-2 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:26:01,825:INFO:root:Thread-3 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:26:01,825:INFO:root:Thread-4 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:26:01,826:INFO:root:Thread-5 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:26:01,827:INFO:root:Thread-6 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:26:01,829:INFO:root:Thread-7 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:26:01,829:INFO:root:Thread-4 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:26:01,829:INFO:root:Thread-5 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:26:01,830:INFO:root:Thread-8 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:26:01,831:INFO:root:Thread-6 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:26:01,831:INFO:root:Thread-9 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:26:01,832:INFO:root:Thread-7 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:26:01,834:INFO:root:Thread-10 (scrape) initialized. Proceeding to scrape data...
+2022-12-20 09:26:01,845:INFO:root:Thread-8 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:26:01,849:INFO:root:Thread-9 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:26:01,851:INFO:root:Thread-10 (scrape) Crawled Schools: 0 || Queued Schools: 8869 || Professors found: 0
+2022-12-20 09:26:05,189:INFO:root:Thread-8 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:26:05,197:INFO:root:Thread-8 (scrape) Crawled Schools: 1 || Queued Schools: 8868 || Professors found: 1
+2022-12-20 09:26:05,453:INFO:root:Thread-9 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 0
+2022-12-20 09:26:08,921:INFO:root:Thread-7 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 25
+2022-12-20 09:26:08,924:INFO:root:Thread-7 (scrape) Crawled Schools: 1 || Queued Schools: 8867 || Professors found: 3
+2022-12-20 09:26:09,308:INFO:root:Thread-6 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 45
+2022-12-20 09:26:10,415:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 65
+2022-12-20 09:26:10,507:INFO:root:Thread-1 (scrape) Rejected Duplicates: 11 || Non-duplicated Data: 79
+2022-12-20 09:26:10,530:INFO:root:Thread-5 (scrape) Rejected Duplicates: 14 || Non-duplicated Data: 90
+2022-12-20 09:26:11,523:INFO:root:Thread-4 (scrape) Rejected Duplicates: 19 || Non-duplicated Data: 96
+2022-12-20 09:26:11,641:INFO:root:Thread-10 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 97
+2022-12-20 09:26:11,760:INFO:root:Thread-7 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 97
+2022-12-20 09:26:11,761:INFO:root:Thread-7 (scrape) Crawled Schools: 2 || Queued Schools: 8866 || Professors found: 10
+2022-12-20 09:26:11,810:INFO:root:Thread-3 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 99
+2022-12-20 09:26:13,084:INFO:root:Thread-10 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 99
+2022-12-20 09:26:13,467:INFO:root:Thread-9 (scrape) Rejected Duplicates: 23 || Non-duplicated Data: 101
+2022-12-20 09:26:13,680:INFO:root:Thread-8 (scrape) Rejected Duplicates: 15 || Non-duplicated Data: 111
+2022-12-20 09:26:14,096:INFO:root:Thread-6 (scrape) Rejected Duplicates: 7 || Non-duplicated Data: 129
+2022-12-20 09:26:15,122:INFO:root:Thread-10 (scrape) Rejected Duplicates: 0 || Non-duplicated Data: 129
+2022-12-20 09:26:15,241:INFO:root:Thread-8 (scrape) Crawled Schools: 2 || Queued Schools: 8865 || Professors found: 16
+2022-12-20 09:26:16,449:INFO:root:Thread-1 (scrape) Rejected Duplicates: 20 || Non-duplicated Data: 134
+2022-12-20 09:26:16,874:INFO:root:Thread-2 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 154
+2022-12-20 09:26:17,544:INFO:root:Thread-3 (scrape) Rejected Duplicates: 19 || Non-duplicated Data: 160
+2022-12-20 09:26:17,816:INFO:root:Thread-5 (scrape) Rejected Duplicates: 18 || Non-duplicated Data: 167
+2022-12-20 09:26:18,456:INFO:root:Thread-6 (scrape) Rejected Duplicates: 5 || Non-duplicated Data: 187
+2022-12-20 09:26:18,775:INFO:root:Thread-7 (scrape) Rejected Duplicates: 20 || Non-duplicated Data: 192
+2022-12-20 09:26:18,789:INFO:root:Thread-4 (scrape) Rejected Duplicates: 24 || Non-duplicated Data: 193

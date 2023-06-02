@@ -1,0 +1,9 @@
+{
+    "thread_num" : 10,
+    "output_path":  "./data/",
+    "school_ids_path":"./ids/rmp_schools_ids.csv",
+    "school_ids_column_name":"B64 ID",
+    "csv_file_headers":["Teacher Name", "Department + Class", "Rating", "Comment", "Rating ID"],
+    "allow_duplicates":false,
+    "file_limit_rows":1000
+}
